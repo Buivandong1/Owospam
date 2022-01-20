@@ -82,7 +82,7 @@ async def help(ctx):
         f"💵**{prefix}autoOwO**\nowoh, owo sell all, owo flip 500 and owob 50 seconds.\n\n**💵{prefix}stopautoOwO**\nstops autoOwO.\n\n**💵{prefix}Owobanbypass**\nIts prevent you from banning Owo by taking appropriate time\n Example:-`the bot takes breaak 5 min of runnning 1st break= 5min,2nd break=10min 3rd break=15min` \n\n made by <@907169033764356097>"
     )
     embed.set_thumbnail(
-        url="https://media.discordapp.net/attachments/928893359098040321/931469210008289290/images_2.jpeg"
+        url="https://media.discordapp.net/attachments/924964210184695839/933558251327467540/FB_IMG_1640012142547.jpg"
     )
     await ctx.send(embed=embed)
 
