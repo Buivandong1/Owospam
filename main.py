@@ -30,7 +30,7 @@ bot = commands.Bot(command_prefix=prefix,
 
 @bot.event
 async def on_ready():
-    activity = discord.Game(name="愛している", type=4)
+    activity = discord.Game(name="OwO", type=4)
     await bot.change_presence(status=discord.Status.idle, activity=activity)
     print(f'''{Fore.RED}
 ██╗░░██╗███████╗██████╗░██╗
